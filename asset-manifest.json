@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fdfde704.chunk.css",
+    "main.js": "/static/js/main.e9503f27.chunk.js",
+    "main.js.map": "/static/js/main.e9503f27.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf7ba005.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf7ba005.js.map",
+    "static/js/2.9d351b71.chunk.js": "/static/js/2.9d351b71.chunk.js",
+    "static/js/2.9d351b71.chunk.js.map": "/static/js/2.9d351b71.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a68cc12f1c79e4d8f61368f62042c9b6.js": "/precache-manifest.a68cc12f1c79e4d8f61368f62042c9b6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fdfde704.chunk.css.map": "/static/css/main.fdfde704.chunk.css.map",
+    "static/js/2.9d351b71.chunk.js.LICENSE.txt": "/static/js/2.9d351b71.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/static/media/logo.08adfec6.png",
+    "static/media/scroll.svg": "/static/media/scroll.68f836b8.svg",
+    "static/media/vector-logo-line.svg": "/static/media/vector-logo-line.793e6f6d.svg",
+    "static/media/vector-logo-triangle.svg": "/static/media/vector-logo-triangle.b6a4d60d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf7ba005.js",
+    "static/js/2.9d351b71.chunk.js",
+    "static/css/main.fdfde704.chunk.css",
+    "static/js/main.e9503f27.chunk.js"
+  ]
+}
