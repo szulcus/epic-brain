@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-vector-logo-line">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="vector-logo-line" clip-path="url(#clip-vector-logo-line)">
+    <line id="Line_1" data-name="Line 1" x2="112" transform="translate(138 286)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="50"/>
+  </g>
+</svg>
