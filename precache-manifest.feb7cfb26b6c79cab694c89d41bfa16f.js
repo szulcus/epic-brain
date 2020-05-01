@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "879f95f636ce0786b1916b300ca53f28",
+    "revision": "dddd0679b09bb8d7ca59272d43b56a60",
     "url": "/epic-brain/index.html"
   },
   {
-    "revision": "c2b38cc3857eb67c75da",
+    "revision": "5ec641dc314a7cee46ab",
     "url": "/epic-brain/static/css/main.fdfde704.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/epic-brain/static/js/2.694150c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2b38cc3857eb67c75da",
-    "url": "/epic-brain/static/js/main.e7da987c.chunk.js"
+    "revision": "5ec641dc314a7cee46ab",
+    "url": "/epic-brain/static/js/main.5b2d09ee.chunk.js"
   },
   {
     "revision": "6cf36460da8307ad393e",
