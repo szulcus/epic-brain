@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/epic-brain/static/css/main.fdfde704.chunk.css",
-    "main.js": "/epic-brain/static/js/main.5b2d09ee.chunk.js",
-    "main.js.map": "/epic-brain/static/js/main.5b2d09ee.chunk.js.map",
+    "main.js": "/epic-brain/static/js/main.efacfb3f.chunk.js",
+    "main.js.map": "/epic-brain/static/js/main.efacfb3f.chunk.js.map",
     "runtime-main.js": "/epic-brain/static/js/runtime-main.c886a7f2.js",
     "runtime-main.js.map": "/epic-brain/static/js/runtime-main.c886a7f2.js.map",
     "static/js/2.694150c8.chunk.js": "/epic-brain/static/js/2.694150c8.chunk.js",
     "static/js/2.694150c8.chunk.js.map": "/epic-brain/static/js/2.694150c8.chunk.js.map",
     "index.html": "/epic-brain/index.html",
-    "precache-manifest.feb7cfb26b6c79cab694c89d41bfa16f.js": "/epic-brain/precache-manifest.feb7cfb26b6c79cab694c89d41bfa16f.js",
+    "precache-manifest.1a75fb69b81400bea10286e3c32a9aed.js": "/epic-brain/precache-manifest.1a75fb69b81400bea10286e3c32a9aed.js",
     "service-worker.js": "/epic-brain/service-worker.js",
     "static/css/main.fdfde704.chunk.css.map": "/epic-brain/static/css/main.fdfde704.chunk.css.map",
     "static/js/2.694150c8.chunk.js.LICENSE.txt": "/epic-brain/static/js/2.694150c8.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.c886a7f2.js",
     "static/js/2.694150c8.chunk.js",
     "static/css/main.fdfde704.chunk.css",
-    "static/js/main.5b2d09ee.chunk.js"
+    "static/js/main.efacfb3f.chunk.js"
   ]
 }
