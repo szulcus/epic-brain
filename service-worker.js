@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/epic-brain/precache-manifest.42b3bf5b38ca57b65d368a7f783f3cfa.js"
+  "/epic-brain/precache-manifest.8979ad5b01b0de9156b89c8cfa52f731.js"
 );
 
 self.addEventListener('message', (event) => {
