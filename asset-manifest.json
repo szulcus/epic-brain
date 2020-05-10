@@ -1,28 +1,27 @@
 {
   "files": {
     "main.css": "/epic-brain/static/css/main.fdfde704.chunk.css",
-    "main.js": "/epic-brain/static/js/main.f0e3e796.chunk.js",
-    "main.js.map": "/epic-brain/static/js/main.f0e3e796.chunk.js.map",
+    "main.js": "/epic-brain/static/js/main.ff842eeb.chunk.js",
+    "main.js.map": "/epic-brain/static/js/main.ff842eeb.chunk.js.map",
     "runtime-main.js": "/epic-brain/static/js/runtime-main.c886a7f2.js",
     "runtime-main.js.map": "/epic-brain/static/js/runtime-main.c886a7f2.js.map",
-    "static/js/2.9818498f.chunk.js": "/epic-brain/static/js/2.9818498f.chunk.js",
-    "static/js/2.9818498f.chunk.js.map": "/epic-brain/static/js/2.9818498f.chunk.js.map",
+    "static/js/2.63f3c66f.chunk.js": "/epic-brain/static/js/2.63f3c66f.chunk.js",
+    "static/js/2.63f3c66f.chunk.js.map": "/epic-brain/static/js/2.63f3c66f.chunk.js.map",
     "index.html": "/epic-brain/index.html",
-    "precache-manifest.f2dabf9cc0421108c51c3a0331c32257.js": "/epic-brain/precache-manifest.f2dabf9cc0421108c51c3a0331c32257.js",
+    "precache-manifest.43eea55a190ae10220635bdb9047ac5c.js": "/epic-brain/precache-manifest.43eea55a190ae10220635bdb9047ac5c.js",
     "service-worker.js": "/epic-brain/service-worker.js",
     "static/css/main.fdfde704.chunk.css.map": "/epic-brain/static/css/main.fdfde704.chunk.css.map",
-    "static/js/2.9818498f.chunk.js.LICENSE.txt": "/epic-brain/static/js/2.9818498f.chunk.js.LICENSE.txt",
+    "static/js/2.63f3c66f.chunk.js.LICENSE.txt": "/epic-brain/static/js/2.63f3c66f.chunk.js.LICENSE.txt",
     "static/media/hello.png": "/epic-brain/static/media/hello.22d09fa8.png",
+    "static/media/lightning.svg": "/epic-brain/static/media/lightning.90ef49d6.svg",
     "static/media/loader.svg": "/epic-brain/static/media/loader.da926101.svg",
-    "static/media/logo.png": "/epic-brain/static/media/logo.08adfec6.png",
-    "static/media/scroll.svg": "/epic-brain/static/media/scroll.68f836b8.svg",
-    "static/media/vector-logo-line.svg": "/epic-brain/static/media/vector-logo-line.793e6f6d.svg",
-    "static/media/vector-logo-triangle.svg": "/epic-brain/static/media/vector-logo-triangle.b6a4d60d.svg"
+    "static/media/logo.png": "/epic-brain/static/media/logo.235a10b5.png",
+    "static/media/scroll.svg": "/epic-brain/static/media/scroll.68f836b8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c886a7f2.js",
-    "static/js/2.9818498f.chunk.js",
+    "static/js/2.63f3c66f.chunk.js",
     "static/css/main.fdfde704.chunk.css",
-    "static/js/main.f0e3e796.chunk.js"
+    "static/js/main.ff842eeb.chunk.js"
   ]
 }
