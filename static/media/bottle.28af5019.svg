@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-bottle">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="bottle" clip-path="url(#clip-bottle)">
+    <g id="alcohol" transform="translate(-97.936 214.326) rotate(-45)">
+      <g id="Group_2" data-name="Group 2" transform="translate(45.475 296.403)">
+        <g id="Group_1" data-name="Group 1" transform="translate(0 0)">
+          <path id="Path_1" data-name="Path 1" d="M164.5,343.858c-60.6-56.653-78.756-37.7-79.13-38.3l-38.63,38.63a10.934,10.934,0,0,1,1.951,1.287L162.855,459.646a10.056,10.056,0,0,1,1.308,1.951L203.457,422.3C202.793,421.886,220.838,403.765,164.5,343.858Z" transform="translate(-46.735 -302.983)" fill="#cfafff"/>
+        </g>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(102.185 86.01)">
+        <g id="Group_3" data-name="Group 3">
+          <path id="Path_2" data-name="Path 2" d="M408.25,109.749,393.574,95.094a31.215,31.215,0,0,0-44.028,0L305.5,139.142c-38.029,38.029-71.573,55.693-104.018,72.778-29.85,15.714-58.019,30.556-86.81,59.327l-9.652,9.653c22.128,1.141,56,21.962,75.725,41.7,19.741,19.741,40.561,53.6,41.682,75.725l9.694-9.694c28.646-28.646,43.654-57,59.492-87,17.208-32.527,35-66.177,72.612-103.811L408.25,153.8A31.184,31.184,0,0,0,408.25,109.749Z" transform="translate(-105.017 -86.01)" fill="gray"/>
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(0.02 351.642)">
+        <g id="Group_5" data-name="Group 5">
+          <path id="Path_3" data-name="Path 3" d="M146.94,475.1,32.75,360.955A9.109,9.109,0,0,1,31.463,359L9.128,381.34a31.183,31.183,0,0,0,0,44.048l73.379,73.379a30.865,30.865,0,0,0,22,9.112h.02a30.9,30.9,0,0,0,22-9.112l22.356-22.356A9.96,9.96,0,0,1,146.94,475.1Z" transform="translate(-0.02 -359.004)" fill="gray"/>
+        </g>
+      </g>
+      <path id="Path_17" data-name="Path 17" d="M33.1,0A33.1,33.1,0,1,1,0,33.1,33.1,33.1,0,0,1,33.1,0Z" transform="translate(221.078 232.929) rotate(45)" fill="#cfafff"/>
+    </g>
+  </g>
+</svg>
